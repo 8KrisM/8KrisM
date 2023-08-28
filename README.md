@@ -13,7 +13,7 @@ Currently working on full-stack booking app (Airbnb/booking.com clone)
 ### Fun fact:   
 - I have a full room full of plants which I love to take care off 🪴
 
-### Check out my [portfolio](https://https://8krism.github.io/) 
+### Check out my [portfolio](https://8krism.github.io/) 
 
 ## Currently learning and trying to get better at:
 <div>
