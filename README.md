@@ -18,7 +18,6 @@ Currently working on full-stack booking app (Airbnb/booking.com clone)
 ## Currently learning and trying to get better at:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45px" height="45px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45px" height="45px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="45px" height="45px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="45px" height="45px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="45px" height="45px"/>
@@ -32,4 +31,5 @@ Currently working on full-stack booking app (Airbnb/booking.com clone)
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45px" height="45px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45px" height="45px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="45px" height="45px"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45px" height="45px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45px" height="45px"/>
