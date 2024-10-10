@@ -4,8 +4,6 @@ This is my new repository. Little by little I upload my older school and persona
 
 #### Love creating fullstack apps, but more inclined to front-end
 
-Currently working on full-stack booking app (Airbnb/booking.com clone)
-
 ### Something about me:  
 - I am 22 years old. 🧔
 - Bachelor's degree in informatics
