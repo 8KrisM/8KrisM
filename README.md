@@ -7,11 +7,11 @@ This is my new repository. Little by little I upload my older school and persona
 Currently working on full-stack booking app (Airbnb/booking.com clone)
 
 ### Something about me:  
-- I am 21 years old. 🧔  
+- I am 22 years old. 🧔
+- Bachelor's degree in informatics
 - currently studying Informatics at Technical University of Košice. 💻  
 - studied Electrical engineering at Secondary School of Electrical Enginnering in Prešov. 🔌  
-### Fun fact:   
-- I have a full room full of plants which I love to take care off 🪴
+
 
 ### Check out my [portfolio](https://8krism.github.io/) 
 
