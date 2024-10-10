@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is my new repository. Little by little I upload my older school and personal projects but also my new projects.  
+Little by little I upload my older school and personal projects but also my new projects.  
 
 #### Love creating fullstack apps, but more inclined to front-end
 
